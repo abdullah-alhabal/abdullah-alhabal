@@ -42,10 +42,6 @@ Connect with me on:
 - **Website**: [Abdullah's Website](http://abdullah.infinityfreeapp.com/).
 - **Bio Links**: [Abdullah's Bio Links](https://abdullahalhbal.bio.link/).
 
-## EXPLORE MY RESUME 
-[Resume click to download.](./AbdullahAlHabal_Resume.pdf)
-<img height="auto" width="auto" alt="Resume" src="./AbdullahAlHabal_Resume.png">
-
 ## Social Connect
 Feel free to connect with me on various platforms:
 - **GitLab**: [gitlab](https://gitlab.com/AbdullahAlhabal).
